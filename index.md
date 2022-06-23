@@ -1,37 +1,12 @@
 ## Sheharyar Zia
+Python Programmer, Linux user, Loves Cats, Looks forward to work on a project
 
-You can not use the [editor on GitHub](https://github.com/mrmedium/sherry/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### How i learnt to code
+So i was exploring youtube when i discorvered [cs50](https://m.youtube.com/c/cs50) it is a course made by harvard that gives an introduction to computer science and programming. I also watched their cs50p series in which they teach python.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So the thing is computer science has alot of branches: Game Development, Web Development, Application Development, Cyber security..... so far i have been getting a taste of every one of these branches to find out the right one for me. 
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrmedium/sherry/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Email:** sherryzia54@gmail.com
+**Discord:** MrInvisible#6691
